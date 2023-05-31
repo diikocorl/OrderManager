@@ -1,0 +1,8 @@
+Buildfile: C:\Users\nkhoi\Documents\Mendix\Order\deployment\build_core.xml
+
+clean:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

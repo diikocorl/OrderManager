@@ -1,0 +1,11 @@
+Buildfile: C:\Users\nkhoi\Documents\GITHUB\Project\OrderMProject\App\Order\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 51 files to C:\Users\nkhoi\Documents\GITHUB\Project\OrderMProject\App\Order\deployment
+     [copy] Copying 31 files to C:\Users\nkhoi\Documents\GITHUB\Project\OrderMProject\App\Order\deployment\model\lib\userlib
+     [copy] Copying 5 files to C:\Users\nkhoi\Documents\GITHUB\Project\OrderMProject\App\Order\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
