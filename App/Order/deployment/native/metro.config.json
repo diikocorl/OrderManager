@@ -1,8 +1,8 @@
 {
   "watchFolders": [
-    "C:/Users/nkhoi/Documents/GITHUB/Project/OrderMProject/App/Order/theme",
-    "C:/Users/nkhoi/Documents/GITHUB/Project/OrderMProject/App/Order/javascriptsource",
-    "C:/Users/nkhoi/Documents/GITHUB/Project/OrderMProject/App/Order/themesource",
+    "C:/Users/nkhoi/Documents/GITHUB/Project/OrderManager/App/Order/theme",
+    "C:/Users/nkhoi/Documents/GITHUB/Project/OrderManager/App/Order/javascriptsource",
+    "C:/Users/nkhoi/Documents/GITHUB/Project/OrderManager/App/Order/themesource",
     "C:/Program Files/Mendix/9.12.4.47318/modeler/tools/node/node_modules"
   ],
   "resolver": {
@@ -23,7 +23,7 @@
       "js_commonjs-module"
     ],
     "extraNodeModules": {
-      "externalWidgets": "C:/Users/nkhoi/Documents/GITHUB/Project/OrderMProject/App/Order/deployment/native/externalWidgets",
+      "externalWidgets": "C:/Users/nkhoi/Documents/GITHUB/Project/OrderManager/App/Order/deployment/native/externalWidgets",
       "@babel/runtime": "C:/Program Files/Mendix/9.12.4.47318/modeler/tools/node/node_modules/@babel/runtime",
       "big.js": "C:/Program Files/Mendix/9.12.4.47318/modeler/tools/node/node_modules/big.js",
       "react": "C:/Program Files/Mendix/9.12.4.47318/modeler/tools/node/node_modules/react",

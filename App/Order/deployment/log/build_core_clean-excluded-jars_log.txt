@@ -1,4 +1,4 @@
-Buildfile: C:\Users\nkhoi\Documents\GITHUB\Project\OrderMProject\App\Order\deployment\build_core.xml
+Buildfile: C:\Users\nkhoi\Documents\GITHUB\Project\OrderManager\App\Order\deployment\build_core.xml
 
 clean-excluded-jars:
 
